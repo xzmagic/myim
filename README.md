@@ -5,5 +5,4 @@ add a branch mydev
 creating a new branch is quick and simple.
 
 fast forward merge test
---------------------------
-merge mode test
+this is on-ff merge test
