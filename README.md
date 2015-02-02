@@ -6,3 +6,4 @@ creating a new branch is quick and simple.
 
 fast forward merge test
 --------------------------
+merge mode test
