@@ -6,5 +6,6 @@ creating a new branch is quick and simple.
 
 fast forward merge test
 this is on-ff merge test
-o
-origin modify
+=======
+
+clone dev test
